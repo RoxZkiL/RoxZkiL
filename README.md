@@ -48,3 +48,5 @@ A Full Stack Web Developer (capable of developing a web application from data mo
   </ul>
   <hr />
 </div>
+ 
+ <img align="center" src="https://i.imgur.com/DUHz9wN.png" alt="bg"/>

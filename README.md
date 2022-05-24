@@ -12,9 +12,9 @@ A Full Stack Web Developer (capable of developing a web application from data mo
 
 
 
-
+<div align="center">
+ 
 <p>
-
 | | |
 |----|---|
 | **Programming Languages** | [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
@@ -23,6 +23,7 @@ A Full Stack Web Developer (capable of developing a web application from data mo
 | **Routers & Frameworks** |[![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=Redux&logoColor=764ABC)](#) [![Express Badge](https://img.shields.io/badge/-Express-357C3C?style=for-the-badge&labelColor=black&logo=Express&logoColor=357C3C)](#)  
 |**Dev Ops**| [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=Docker&logoColor=2496ED)](#) [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=Git&logoColor=F05032)](#) [![Visual Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&labelColor=black&logo=Visual%20Studio%20Code&logoColor=007ACC)](#) [![Github Badge](https://img.shields.io/badge/-GitHub-FFE6AB?style=for-the-badge&labelColor=black&logo=GitHub&logoColor=FFE6AB)](#)  
 </p>
+  </div>
 
 
 ### 🌟 Featured projects

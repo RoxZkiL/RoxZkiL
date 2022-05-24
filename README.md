@@ -54,7 +54,7 @@ JavaScript - React - Redux - CSS - Node.js - Express - PostgreSQL - Sequelize
  
  ```
 Tecnologies:
-JavaScript - React (Formik, Auth0) - Redux - CSS - Material-UI - Node.js (NodeMailer, MercadoPago platform) - Express - PostgreSQL - Sequelize
+JavaScript - React (Formik, Auth0) - Redux - CSS - Material-UI - Boostrap - Node.js (NodeMailer, MercadoPago platform) - Express - PostgreSQL - Sequelize
 
 ```
  

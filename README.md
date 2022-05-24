@@ -30,7 +30,7 @@ A Full Stack Web Developer (capable of developing a web application from data mo
 
 <div align="center">
  
-### 🌟 Featured projects
+## 🌟 Featured projects
 
 <a href="https://github.com/RoxZkiL/PI-Dogs-main"><h5>The Dog's App</h5><a/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoxZkiL&exclude_repo=PI-Dogs-main-readme-stats,RoxZkiL.github.io)](https://github.com/RoxZkiL/PI-Dogs-main)
@@ -41,7 +41,7 @@ A Full Stack Web Developer (capable of developing a web application from data mo
  <br />
 
 ## 🔗 Some links to check more of my work and get in touch!
-<div align="center">
+<div>
   <ul>
     <li><a href="https://www.linkedin.com/in/jesusmatute/"><img src="https://img.icons8.com/android/24/4a90e2/linkedin.png" /><span> <b>LinkedIn</b></span></a></li>
     <li><a href="mailto:mttrox@gmail.com"><img src="https://img.icons8.com/material/24/ffffff/mail.png" /><span> <b>Email</b></span></a></li>

@@ -10,7 +10,8 @@ A Full Stack Web Developer (capable of developing a web application from data mo
 <h2>Technologies that I use</h2>
 </div>
 
-
+<br />
+<br />
 
 <div align="center">
  
@@ -25,6 +26,7 @@ A Full Stack Web Developer (capable of developing a web application from data mo
   </div>
 
 <br />
+<br />
 
 <div align="center">
  
@@ -35,6 +37,7 @@ A Full Stack Web Developer (capable of developing a web application from data mo
 
  </div>
  
+ <br />
  <br />
 
 ## 🔗 Some links to check more of my work and get in touch!

@@ -32,7 +32,7 @@ A Full Stack Web Developer (capable of developing a web application from data mo
  
 ## 🌟 Featured projects
 
-<a href="https://pi-dogs-jesus-matute.vercel.app/" target="_blank" rel="noopener noreferrer"><h5>The Dog's App</h5><a/> 
+<a href="https://pi-dogs-jesus-matute.vercel.app/" target="_blank"><h5>The Dog's App</h5><a/> 
  
  ```
 Tecnologies:

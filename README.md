@@ -29,8 +29,7 @@ A Full Stack Web Developer (capable of developing a web application from data mo
   <a href="https://github.com/RoxZkiL/PI-Dogs-main"><img src="[https://github-readme-stats.vercel.app/api?username=RoxZkiL&repo=PI-Dogs-main](https://github-readme-stats.vercel.app/api/top-langs/?username=RoxZkiL&exclude_repo=PI-Dogs-main-readme-stats,RoxZkiL.github.io)" /></a>
 </div>
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoxZkiL&exclude_repo=PI-Dogs-main-readme-stats,RoxZkiL.github.io)](https://github.com/RoxZkiL/PI-Dogs-main-readme-stats)
 
 
 

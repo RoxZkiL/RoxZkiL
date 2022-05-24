@@ -1,6 +1,6 @@
+<img align="center" src="https://i.imgur.com/DUHz9wN.png" alt="bg"/>
+
 <h1>Hi, I'm Jesus!</h1> 
-
-
 
 A Full Stack Web Developer (capable of developing a web application from data modeling and backend implementation, to frontend development and implementation, including its design, UX and UI), passionate about web technologies and how the Internet interconnects people and businesses around the world.
 

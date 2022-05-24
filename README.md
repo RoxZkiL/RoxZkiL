@@ -26,10 +26,15 @@ A Full Stack Web Developer (capable of developing a web application from data mo
 ### 🌟 Featured projects
 
 <div align="center">
-  <a href="https://github.com/RoxZkiL/PI-Dogs-main"><img src="https://github-readme-stats-roxzkil.vercel.app/api/pin/?username=RoxZkiL&repo=PI-Dogs-main" /></a>
+  <a href="https://github.com/RoxZkiL/PI-Dogs-main"><img src="[https://github-readme-stats.vercel.app/api?username=RoxZkiL&repo=PI-Dogs-main](https://github-readme-stats.vercel.app/api/top-langs/?username=RoxZkiL&exclude_repo=PI-Dogs-main-readme-stats,RoxZkiL.github.io)" /></a>
 </div>
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoxZkiL&exclude_repo=PI-Dogs-main-readme-stats,RoxZkiL.github.io)](https://github.com/RoxZkiL/PI-Dogs-main-readme-stats)
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoxZkiL)](https://github.com/RoxZkiL/github-readme-stats)
 
 
 

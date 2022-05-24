@@ -48,7 +48,9 @@ JavaScript - React - Redux - CSS - Node.js - Express - PostgreSQL - Sequelize
  
  <a href="https://computechshop.vercel.app/"><h5>E-Commerce CompuTechShop (Page)</h5><a/> 
  
-<a href="https://github.com/RoxZkiL/PI-Dogs-main"><h5>GitHub (Repo)</h5><a/> 
+<a href="https://github.com/RoxZkiL/E-commerce-CompuTechShop"><h5>GitHub (Repo)</h5><a/> 
+ 
+ 
  
  ```
 Tecnologies:

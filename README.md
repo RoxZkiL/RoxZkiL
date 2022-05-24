@@ -34,6 +34,8 @@ A Full Stack Web Developer (capable of developing a web application from data mo
 
 <a href="https://pi-dogs-jesus-matute.vercel.app/"><h5>The Dog's App</h5><a/> 
  
+<a href="https://github.com/RoxZkiL/PI-Dogs-main"><h5>GitHub Repo</h5><a/> 
+ 
  ```
 Tecnologies:
 JavaScript - React - Redux - CSS - Node.js - Express - PostgreSQL - Sequelize

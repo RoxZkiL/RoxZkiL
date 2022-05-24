@@ -1,5 +1,7 @@
 Hi! I'm Jesus. Full Stack Web Developer (capable of developing a web application from data modeling and backend implementation, to frontend development and implementation, including its design, UX and UI), passionate about web technologies and how the Internet interconnects people and businesses around the world.
 
+<h2>Full Stack Developer</h2>
+
 <p>
 
 

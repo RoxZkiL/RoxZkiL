@@ -1,10 +1,15 @@
 <h1>Hi! I'm Jesus</h1> 
 
+
+
 A Full Stack Web Developer (capable of developing a web application from data modeling and backend implementation, to frontend development and implementation, including its design, UX and UI), passionate about web technologies and how the Internet interconnects people and businesses around the world.
 
 <div align="center">
 <h2>Technologies that I use</h2>
 </div>
+
+
+
 
 <p>
 
@@ -16,6 +21,9 @@ A Full Stack Web Developer (capable of developing a web application from data mo
 | **Routers & Frameworks** |[![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=Redux&logoColor=764ABC)](#) [![Express Badge](https://img.shields.io/badge/-Express-357C3C?style=for-the-badge&labelColor=black&logo=Express&logoColor=357C3C)](#)  
 |**dev ops**| [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=Docker&logoColor=2496ED)](#) [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=Git&logoColor=F05032)](#) [![Visual Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&labelColor=black&logo=Visual%20Studio%20Code&logoColor=007ACC)](#) [![Github Badge](https://img.shields.io/badge/-GitHub-FFE6AB?style=for-the-badge&labelColor=black&logo=GitHub&logoColor=FFE6AB)](#)  
 </p>
+
+
+
 
 ## 🔗 Some links to check more of my work and get in touch!
 <div>

@@ -23,6 +23,12 @@ A Full Stack Web Developer (capable of developing a web application from data mo
 </p>
 
 
+### 🌟 Featured projects
+
+<div align="center">
+  <a href="https://github.com/RoxZkiL/PI-Dogs-main"><img src="https://github-readme-stats-roxzkil.vercel.app/api/pin/?username=RoxZkiL&repo=PI-Dogs-main" /></a>
+</div>
+
 
 
 ## 🔗 Some links to check more of my work and get in touch!

@@ -25,11 +25,14 @@ A Full Stack Web Developer (capable of developing a web application from data mo
   </div>
 
 
+<div align="center">
+ 
 ### 🌟 Featured projects
 
 <a href="https://github.com/RoxZkiL/PI-Dogs-main"><h5>The Dog's App</h5><a/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoxZkiL&exclude_repo=PI-Dogs-main-readme-stats,RoxZkiL.github.io)](https://github.com/RoxZkiL/PI-Dogs-main)
 
+ </div>
 
 ## 🔗 Some links to check more of my work and get in touch!
 <div>

@@ -41,7 +41,7 @@ A Full Stack Web Developer (capable of developing a web application from data mo
  <br />
 
 ## 🔗 Some links to check more of my work and get in touch!
-<div>
+<div align="center">
   <ul>
     <li><a href="https://www.linkedin.com/in/jesusmatute/"><img src="https://img.icons8.com/android/24/4a90e2/linkedin.png" /><span> <b>LinkedIn</b></span></a></li>
     <li><a href="mailto:mttrox@gmail.com"><img src="https://img.icons8.com/material/24/ffffff/mail.png" /><span> <b>Email</b></span></a></li>

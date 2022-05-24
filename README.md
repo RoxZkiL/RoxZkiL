@@ -35,7 +35,6 @@ A Full Stack Web Developer (capable of developing a web application from data mo
 <a href="https://pi-dogs-jesus-matute.vercel.app/"><h5>The Dog's App</h5><a/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoxZkiL&langs_count=8)](https://github.com/RoxZkiL/PI-Dogs-main)
  
- [![Top Langs](https://PI-Dogs-main-readme-stats.vercel.app/api/top-langs/?username=RoxZkiL&langs_count=8)](https://github.com/RoxZkiL/PI-Dogs-main-readme-stats)
 
  </div>
  

@@ -24,6 +24,7 @@ A Full Stack Web Developer (capable of developing a web application from data mo
 
   </div>
 
+<br />
 
 <div align="center">
  
@@ -33,6 +34,8 @@ A Full Stack Web Developer (capable of developing a web application from data mo
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoxZkiL&exclude_repo=PI-Dogs-main-readme-stats,RoxZkiL.github.io)](https://github.com/RoxZkiL/PI-Dogs-main)
 
  </div>
+ 
+ <br />
 
 ## 🔗 Some links to check more of my work and get in touch!
 <div>

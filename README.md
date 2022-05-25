@@ -36,9 +36,9 @@ A Full Stack Web Developer (capable of developing a web application from data mo
  
 ## 🌟 Featured projects
 
-<a href="https://pi-dogs-jesus-matute.vercel.app/"><h4>The Dog's App (Page)</h4><a/> 
+<a href="https://pi-dogs-jesus-matute.vercel.app/"><h4>The Dog's App Page</h4><a/> 
  
-<a href="https://github.com/RoxZkiL/PI-Dogs-main"><h4>GitHub (Repo)</h4><a/> 
+<a href="https://github.com/RoxZkiL/PI-Dogs-main"><h4>GitHub Repo</h4><a/> 
  
  ```
 Tecnologies:
@@ -46,9 +46,9 @@ JavaScript - React - Redux - CSS - Node.js - Express - PostgreSQL - Sequelize
 
 ```
  
- <a href="https://computechshop.vercel.app/"><h4>E-Commerce CompuTechShop (Page)</h4><a/> 
+ <a href="https://computechshop.vercel.app/"><h4>E-Commerce CompuTechShop Page</h4><a/> 
  
-<a href="https://github.com/RoxZkiL/E-commerce-CompuTechShop"><h4>GitHub (Repo)</h4><a/> 
+<a href="https://github.com/RoxZkiL/E-commerce-CompuTechShop"><h4>GitHub Repo</h4><a/> 
  
  
  

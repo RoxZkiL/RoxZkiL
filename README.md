@@ -38,7 +38,7 @@ A Full Stack Web Developer (capable of developing a web application from data mo
 
 <a href="https://pi-dogs-jesus-matute.vercel.app/"><h4>The Dog's App (Page)</h4><a/> 
  
-<a href="https://github.com/RoxZkiL/PI-Dogs-main"><45>GitHub (Repo)</h4><a/> 
+<a href="https://github.com/RoxZkiL/PI-Dogs-main"><h4>GitHub (Repo)</h4><a/> 
  
  ```
 Tecnologies:

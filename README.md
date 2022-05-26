@@ -67,6 +67,7 @@ JavaScript - React (Formik, Auth0) - Redux - CSS - Material-UI - Boostrap - Node
   <ul>
     <li><a href="https://www.linkedin.com/in/jesusmatute/"><img src="https://img.icons8.com/android/24/4a90e2/linkedin.png" /><span> <b>LinkedIn</b></span></a></li>
     <li><a href="mailto:mttrox@gmail.com"><img src="https://img.icons8.com/material/24/ffffff/mail.png" /><span> <b>Email</b></span></a></li>
+   <li><a href="https://portfolio-jesus-matute.vercel.app/"><img src="https://img.icons8.com/android/24/26e07f/briefcase.png" /><span> <b>Portfolio</b></span></a></li>
   </ul>
   <hr />
 </div>
